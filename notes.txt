@@ -1,0 +1,22 @@
+visualizations with web audio api
+
+- AnalyserNode created by createAnalyser method
+- node is then connected to your audio
+- analyser node will then capture audio data using an fft
+- use getFloatFrequencyData or getByteFrequencyData -> Frequency
+- getByteTimeDomaindata -> waveform data
+
+
+Light tunnel:
+- Vertices of the cylinder translated based on frequency and time:
+
+- create arrays of cylinders, sequence
+- shading cylinders:
+  - vertices colors
+  - positions, normals, colors
+  - similar to assignment2/3
+- assign color based on volume/frequency @time
+- back vertices function of t
+- front vertices function of t+1
+
+- music to png...?
