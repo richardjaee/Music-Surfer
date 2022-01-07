@@ -1,5 +1,5 @@
 # Music Surfer
-Team Project for CS 174A
+
 
 <img src='musicsurfer_ss.jpg'>
 
